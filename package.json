@@ -6,6 +6,10 @@
   "scripts": {
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spitimage/js-simplehdlc.git"
+  },
   "author": {
     "name": "Aaron Nielsen",
     "email": "spitimage@gmail.com"
